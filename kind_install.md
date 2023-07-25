@@ -10,7 +10,9 @@ sudo tar -xvf go1.20.5.linux-amd64.tar.gz
 sudo mv go /usr/local  
 
 cd ~
+
 vi .profile
+
 GOROOT=/usr/local/go
 
 PATH=$GOPATH/bin:$GOROOT/bin:/home/ubuntu/go/bin:$PATH
