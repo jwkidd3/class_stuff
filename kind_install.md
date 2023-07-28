@@ -16,6 +16,7 @@ vi .profile
 #add the following
 
 GOROOT=/usr/local/go
+
 PATH=$GOPATH/bin:$GOROOT/bin:/home/ubuntu/go/bin:$PATH
 
 
