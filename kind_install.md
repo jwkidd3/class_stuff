@@ -20,6 +20,8 @@ GOROOT=/usr/local/go
 PATH=$GOPATH/bin:$GOROOT/bin:/home/ubuntu/go/bin:$PATH
 
 
+****Close and save the .profile file and then execute
+
 go install sigs.k8s.io/kind@v0.20.0
 
 curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
