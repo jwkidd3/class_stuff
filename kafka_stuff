@@ -1,1 +1,1 @@
-confluent kafka topic consume topicone --cluster lkc-ny7noz --api-key 2PT4YGXIKA67L3RA --api-secret UfQjnka8nBkfbqPWgdusWwQ/WSQ+EO0JSPnUd73OX/93Xf2VbNzpC6eHVhResP6zPe66BaZn3NYbiERX/04RmiGm5eNBgRgjzo8fQN6HGTY
+confluent kafka topic consume topicone --cluster lkc-ny7noz --api-key 2PT4YGXIKA67L3RA --api-secret AES/GCM/NoPadding:UfQjnka8nBkfbqPWgdusWwQ/WSQ+EO0JSPnUd73OX/93Xf2VbNzpC6eHVhResP6zPe66BaZn3NYbiERX/04RmiGm5eNBgRgjzo8fQN6HGTY
